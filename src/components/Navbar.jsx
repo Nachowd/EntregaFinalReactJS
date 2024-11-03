@@ -12,7 +12,7 @@ export default function Navbar() {
             <div>
               <Link to="/" className="flex items-center py-4 px-2">
                 <ShoppingBag className="h-8 w-8 mr-2 text-purple-600" />
-                <span className="font-semibold text-gray-500 text-lg">Mi E-commerce</span>
+                <span className="font-semibold text-gray-500 text-lg">TIENDA</span>
               </Link>
             </div>
           </div>
